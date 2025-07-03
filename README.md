@@ -25,6 +25,8 @@ http://perpet.synology.me:3000/kakao?key=방키값&msg=주간보고셜라셜라
 
 test1.js 코드 참고
 
+discord_format.js  디스코드 웹훅 방식으로 카톡보내기
+
 용도 : 자체서버구축해서 AI 연동해서 주기적으로 알람 보내기
 
 
