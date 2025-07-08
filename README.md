@@ -21,7 +21,7 @@
 크롬 주소창에 해당 주소 입력 (주소에 확인한 방키값으로 수정)  
 용도 : 간단 테스트 용도
 
-http://perpet.synology.me:3000/kakao?key=방키값&msg=주간보고셜라셜라
+https://perpet.synology.me:3030/kakao?key=방키값&msg=주간보고셜라셜라
 
 ### 테스트 방법 2 (자바스크립트)
 
