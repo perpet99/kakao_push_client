@@ -1,9 +1,9 @@
 const fetch = require('node-fetch'); // 설치 필요: npm install node-fetch@2
 
 
-const your_roomkey = '5042';    
+const your_roomkey = '방키값';    
 
-const webhookURL = `http://perpet.synology.me:3000/kakao/${your_roomkey}`;
+const webhookURL = `https://perpet.synology.me:3030/kakao/${your_roomkey}`;
 
 const message = {
   content: '자바스크립트에서 보내는 테스트 메시지입니다! 🎉'

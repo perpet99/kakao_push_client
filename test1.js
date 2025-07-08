@@ -10,8 +10,8 @@ async function getExchangeRate() {
 
   fetch('https://api.frankfurter.app/latest?from=USD&to=KRW');
 
-  const your_roomkey = '5042';    
-  fetch(`http://perpet.synology.me:3000/kakao?key=${your_roomkey}&msg=${result}`);
+  const your_roomkey = '방키값';    
+  fetch(`https://perpet.synology.me:3030/kakao?key=${your_roomkey}&msg=${result}`);
 
 }
 
