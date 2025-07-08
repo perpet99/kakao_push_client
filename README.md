@@ -36,4 +36,6 @@ discord_format.js  디스코드 웹훅 방식으로 카톡보내기
 
 https://docs.google.com/spreadsheets/d/1y2MQ0b-0asXF0YgLRvzWg89zyx50CpeEnO-rnWfZEEU/edit?usp=sharing
 
+사본 복사 하고 앱 스크립트 확인
+
 용도 : 주기적으로 구글시트 변동된 내용을 전송하기 
